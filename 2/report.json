@@ -1,0 +1,90 @@
+{
+  "src": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\小猫表白-原版.html",
+  "url": "file:///C:/Users/IF%20you/Doubao/chats/2026-10-26/new-chat/%E5%B0%8F%E7%8C%AB%E8%A1%A8%E7%99%BD/%E5%B0%8F%E7%8C%AB%E8%A1%A8%E7%99%BD-%E5%8E%9F%E7%89%88.html",
+  "outdir": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "mobile": {
+      "screenshot": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\_shots\\小猫表白-原版_mobile.jpg",
+      "screenshotBytes": 13328,
+      "truncated": false,
+      "structure": {
+        "title": "可以成为我的恋人吗？",
+        "firstH1": "可以成为我的恋人吗？苏汇然",
+        "viewport": {
+          "w": 500,
+          "h": 690
+        },
+        "fullpage": {
+          "w": 500,
+          "h": 690
+        },
+        "counts": {
+          "section": 1,
+          "h1": 2,
+          "h2": 2,
+          "img": 2,
+          "canvas": 0,
+          "svg": 3,
+          "links": 0,
+          "buttons": 4
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "elapsedSec": 3.27,
+  "schemaVersion": 2,
+  "status": "pass",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\小猫表白-原版.html",
+    "resolvedPath": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\小猫表白-原版.html",
+    "baseUrl": "file:///C:/Users/IF%20you/Doubao/chats/2026-10-26/new-chat/%E5%B0%8F%E7%8C%AB%E8%A1%A8%E7%99%BD/%E5%B0%8F%E7%8C%AB%E8%A1%A8%E7%99%BD-%E5%8E%9F%E7%89%88.html",
+    "protocol": "file",
+    "cwd": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat",
+    "mediaMode": {
+      "reducedMotion": true
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "mobile",
+        "path": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\_shots\\小猫表白-原版_mobile.jpg",
+        "size": 13328,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "findings": [],
+  "prioritizedActions": [],
+  "reportPath": "C:\\Users\\IF you\\Doubao\\chats\\2026-10-26\\new-chat\\小猫表白\\_shots\\report.json"
+}
